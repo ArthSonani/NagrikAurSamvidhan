@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-[👉 Nagrik Aur Samvidhan](#) *(https://nagrik-aur-samvidhan.vercel.app/)*
+Link : *(https://nagrik-aur-samvidhan.vercel.app/)*
 
 ---
 
